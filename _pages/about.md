@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: MD/PhD Student, University of Toronto (Department of Computer Science)
+subtitle: MD/PhD Student, CIHR Vanier Scholar, University of Toronto (Department of Computer Science)
 
 profile:
   align: right
