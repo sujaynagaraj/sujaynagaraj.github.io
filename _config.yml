@@ -47,6 +47,10 @@ rss_icon: false
 # Layout
 # -----------------------------------------------------------------------------
 
+
+# Google Analytics
+google_analytics: G-LX2J2L0TC2
+
 navbar_fixed: true
 footer_fixed: true
 
