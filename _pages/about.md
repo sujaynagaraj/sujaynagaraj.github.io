@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a **PGY1 Internal Medicine Resident** (2026–2027) at the **University of Toronto**, presently based out of **St. Michael's Hospital**.
 
-I completed my **MD** at the University of Toronto (2026) and my **PhD in Computer Science** at the University of Toronto and the **Vector Institute** (2025). My PhD was supervised by **[Dr. Anna Goldenberg](https://goldenberglab.ca/index.html)**.
+I completed my **MD** at the University of Toronto (2026) and my **PhD in Computer Science** at the University of Toronto and the **Vector Institute** (2025), where I was a **Vanier Canada Graduate Scholar**. My PhD was supervised by **[Dr. Anna Goldenberg](https://goldenberglab.ca/index.html)**.
 
 My research interests lie at the intersection of machine learning and health — in particular, **wearables and time-series data**, **label noise**, and the **safety of ML algorithms under deployment**.
 
