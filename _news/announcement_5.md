@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work at the SickKids Critical Care Unit was recently accepted in-proceedings at **Machine Learning for Healthcare 2024**: we uncover meaningful signal buried within noise artifacts in high-frequency physiological waveform data. Rather than removing this noise, we built and deployed ML models to identify it in order to achieve a variety of important clinical tasks - stay tuned for full-paper!
+Our work at the SickKids Critical Care Unit was accepted at **Machine Learning for Healthcare 2024**: <a href="https://proceedings.mlr.press/v252/nagaraj24a.html">Needles in Needle Stacks: Meaningful Clinical Information in Waveform Noise</a>. We uncover meaningful signal buried within noise artifacts in high-frequency physiological waveform data, building and deploying ML models to identify it for a variety of clinical tasks.
