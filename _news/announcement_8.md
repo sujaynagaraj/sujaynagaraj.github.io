@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Successfully defended my PhD thesis, "Reconciling with Noise in Machine Learning for Health"!
+Successfully defended my PhD thesis, <a href="https://utoronto.scholaris.ca/items/eac290cf-e088-49cd-8adf-b3f8fb96bb87">"Reconciling with Noise in Machine Learning for Health"</a>!
