@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sujaynagaraj.github.io/sitemap.xml
+Sitemap: https://sujaynagaraj.com/sitemap.xml
